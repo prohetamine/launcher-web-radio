@@ -20,8 +20,6 @@ $ cd launcher-web-radio
 $ npm install
 ```
 
-In addition, you should also install [ffmpeg](https://ffmpeg.org/download.html) and puppeteer and make sure that they are available and working.
-
 ### Examples and description
 
 Now just run and go to the default address http://localhost:8080 and control the broadcast using the [radio-launcher](https://github.com/prohetamine/radio-launcher). Attention: until you add any tracks, the broadcast will not start
