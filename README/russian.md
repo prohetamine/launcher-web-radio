@@ -15,7 +15,7 @@
 Клонируйте этот репозиторий и установите nodejs.
 
 ```sh
-$ git clone git@github.com:prohetamine/launcher-web-radio.git
+$ git clone https://github.com/prohetamine/launcher-web-radio.git
 $ cd launcher-web-radio
 $ npm install
 ```
