@@ -15,7 +15,7 @@ This example shows how you can start a broadcast using voice on the air to make 
 Clone the github repository and install nodejs.
 
 ```sh
-$ git clone git@github.com:prohetamine/launcher-web-radio.git
+$ git clone https://github.com/prohetamine/launcher-web-radio.git
 $ cd launcher-web-radio
 $ npm install
 ```
