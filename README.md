@@ -8,7 +8,7 @@
 > launcher-web-radio - radio station for nodejs, this example is for the main radio-station library.
 
 ### Why ?
-This example shows how you can start a broadcast using voice on the air to make everything work connect to the [radio-launcher](https://github.com/prohetamine/radio-launcher) and add tracks, and this is just an example, the official documentation can be found in [radio-station](https://github.com/prohetamine/radio-station), but if you prefer automation and endless online radio, just use the server version, it does not require the use of a launcher and can also be controlled using nodejs [node-web-radio](https://github.com/prohetamine/node-web-radio)
+This example shows how you can start a broadcast using voice on the air to make everything work connect to the [radio-launcher](https://github.com/prohetamine/radio-launcher) and add tracks, and this is just an example, the official documentation can be found in [radio-station](https://github.com/prohetamine/radio-station), but if you prefer automation and endless online radio, just use the server version [node-web-radio](https://github.com/prohetamine/node-web-radio), it does not require the use of a launcher and can also be controlled using nodejs
 
 ### Get started
 
