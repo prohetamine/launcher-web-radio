@@ -1,0 +1,26 @@
+{
+  "name": "launcher-web-radio",
+  "version": "1.0.0",
+  "description": "🎙 📡 radio station for nodejs, this example is for the main radio-station library.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prohetamine/launcher-web-radio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prohetamine/launcher-web-radio/issues"
+  },
+  "homepage": "https://github.com/prohetamine/launcher-web-radio#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "http": "^0.0.1-security",
+    "path": "^0.12.7",
+    "radio-station": "github:prohetamine/radio-station",
+    "socket.io": "^4.4.1"
+  }
+}
