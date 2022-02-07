@@ -8,7 +8,7 @@
 > node-web-radio - радиостанция для nodejs, этот пример для основной библиотеки radio-station.
 
 ### Почему ?
-В этом примере показано, как вы можете начать трансляцию с голосом в эфире, чтобы управлять эфиром подключитесь к [radio-launcher](https://github.com/prohetamine/radio-launcher) и добавьте треки, и это всего лишь пример, официальную документацию можно найти в [radio-station](https://github.com/prohetamine/radio-station), но если вы предпочитаете автоматическое онлайн радио, просто используйте серверную версию, она не требует использования лаунчера и также может управляться с помощью nodejs [node-web-radio](https://github.com/prohetamine/node-web-radio)
+В этом примере показано, как вы можете начать трансляцию с голосом в эфире, чтобы управлять эфиром подключитесь к [radio-launcher](https://github.com/prohetamine/radio-launcher) и добавьте треки, и это всего лишь пример, официальную документацию можно найти в [radio-station](https://github.com/prohetamine/radio-station), но если вы предпочитаете автоматическое онлайн радио, просто используйте серверную версию [node-web-radio](https://github.com/prohetamine/node-web-radio), она не требует использования лаунчера и также может управляться с помощью nodejs
 
 ### С чего начать
 
