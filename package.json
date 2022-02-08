@@ -1,6 +1,6 @@
 {
   "name": "launcher-web-radio",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "🎙 📡 radio station for nodejs, this example is for the main radio-station library.",
   "main": "index.js",
   "scripts": {
@@ -20,7 +20,7 @@
     "express": "^4.17.2",
     "http": "^0.0.1-security",
     "path": "^0.12.7",
-    "radio-station": "github:prohetamine/radio-station",
+    "radio-station": "^0.0.17",
     "socket.io": "^4.4.1"
   }
 }
